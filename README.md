@@ -1,6 +1,7 @@
 #Algorithms
 
 ## [Prometheus] (http://courses.prometheus.org.ua)
+- [x] <b>week 9</b> added on <i>2017-01-04</i>  
 - [x] <b>week 8</b> added on <i>2017-01-04</i>  
 - [x] <b>week 7</b> added on <i>2017-01-04</i>  
 - [x] <b>week 6</b> added on <i>2017-01-04</i>  
